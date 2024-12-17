@@ -36,7 +36,6 @@
     "mal-scraper": "^2.13.2",
     "moment-timezone": "^0.5.34",
     "mongoose": "^7.1.1",
-    "nayan-media-downloader": "^2.6.7",
     "node-cron": "^3.0.3",
     "node-fetch": "^2.6.7",
     "node-gtts": "^2.0.2",
