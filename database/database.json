@@ -1,0 +1,326 @@
+{
+  "users": {
+    "6283170801193@s.whatsapp.net": {
+      "name": "aih",
+      "limit": 97216,
+      "balance": 0,
+      "premium": true,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1,
+      "premiumExpires": 1734600311930,
+      "isWaitingForNextVideo": true
+    },
+    "6282353119669@s.whatsapp.net": {
+      "name": "OJI SHOPE",
+      "limit": 1000,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6283814945701@s.whatsapp.net": {
+      "name": "90h",
+      "limit": 9,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6283147309847@s.whatsapp.net": {
+      "name": "Furina",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6285725254154@s.whatsapp.net": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 1078,
+      "balance": 151917,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "62882003500679@s.whatsapp.net": {
+      "name": ".",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "120363282401625654@newsletter": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6283897091491@s.whatsapp.net": {
+      "name": "Riss",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6289649940323@s.whatsapp.net": {
+      "name": "Riyannn",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "120363186130999681@newsletter": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "120363303125391729@newsletter": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6283809503356@s.whatsapp.net": {
+      "name": "🫂",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6285179799727@s.whatsapp.net": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6285601157892@s.whatsapp.net": {
+      "name": ".",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "120363274587556001@newsletter": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6289514579847@s.whatsapp.net": {
+      "name": "Heri Kurniawan",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "120363204762268523@newsletter": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6281229672570@s.whatsapp.net": {
+      "name": "vinn",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "6283165370765@s.whatsapp.net": {
+      "name": "YT OJIOFFICIAL",
+      "limit": 1000,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    },
+    "18772241042@s.whatsapp.net": {
+      "name": "18772241042",
+      "limit": 10,
+      "balance": 10000,
+      "premium": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "claim": 1
+    }
+  },
+  "chats": {
+    "6283170801193@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6282353119669@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283814945701@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283147309847@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6285725254154@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "62882003500679@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363313266012055@g.us": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363282401625654@newsletter": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283897091491@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6289649940323@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363186130999681@newsletter": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363303125391729@newsletter": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283809503356@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6285179799727@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6285601157892@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363274587556001@newsletter": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6281377752580-1509193728@g.us": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363204762268523@newsletter": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6281229672570@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363312614720159@g.us": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363332815696884@g.us": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283829814737@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "120363367298666328@g.us": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "6283165370765@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    },
+    "18772241042@s.whatsapp.net": {
+      "mute": false,
+      "OjiOffc": false
+    }
+  },
+  "database": {},
+  "game": {
+    "caklontong": [],
+    "asahotak": [],
+    "math": [],
+    "siapakahaku": [],
+    "susunkata": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebaklagu": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tekateki": []
+  },
+  "settings": {
+    "6283170801193@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    },
+    "hadiah": [],
+    "hadiahkadaluwarsa": [],
+    "claimprem": [],
+    "claimpremkadaluwarsa": [],
+    "6285725254154@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    },
+    "6283165370765@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    }
+  },
+  "others": {},
+  "sticker": {},
+  "anonymous": {}
+}
